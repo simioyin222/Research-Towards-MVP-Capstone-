@@ -65,7 +65,7 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 
 ## Planning and Prototyping
 
-### Understanding UX and Website Planning
+### Understanding UX and Website Planning 4:30 pm cst - 5:15 pm cst
 
 - [User experience, or UX, refers to the experience someone has when interacting with a product or service. From finding a service in Google, to understanding a product offering, to purchasing the product and sharing a review, UX is about managing website visitors perceptions of ease of use and getting things done quickly.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 - [Everyone has had the experience of being completely lost about what to do next on a website. If you can't find the link, can't understand the product offering, or misunderstand what you're being asked to do, that's a UX fail in process.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
