@@ -5,6 +5,43 @@
 ## Understanding the web
 
 ### Client and Servers
+10:00 am cst - 11:00 am cst Preparing and heading to library 
+11:00 am cst - 2:00 pm cst Outline and brainstorm mvp and how to set it up and what i want to do and technoology to use:
+
+Additonal Tech Stack Added:
+Responsive Design: Utilize CSS frameworks like Bootstrap that you're already considering, or Tailwind CSS, which offers utility-first styling. These frameworks facilitate responsive design, ensuring your web page adapts to various screen sizes and devices.
+
+Progressive Web App (PWA): Convert your application into a PWA to allow offline use, fast loading times, and an app-like experience. This involves implementing service workers, a manifest file, and ensuring your site is served over HTTPS.
+
+API Management: For external APIs like Google Custom Search and YouTube, consider using an API gateway or management layer to handle API requests efficiently, cache responses, and manage quotas or rate limits.
+
+Frontend Frameworks: Although not strictly necessary, using frontend frameworks like React, Vue, or Angular can enhance user experience through more dynamic and responsive interfaces. These frameworks also facilitate state management, which can be beneficial for real-time updates.
+
+SEO Optimization: Ensure your application is search engine optimized, especially since it's content-rich. Implementing server-side rendering (SSR) or static site generation (SSG) with frameworks like Next.js (for React) can improve SEO and performance.
+
+Security Measures: Implement proper security measures, including HTTPS, CORS policies, content security policies, and sanitizing user inputs to protect against common web vulnerabilities (like XSS and CSRF attacks).
+
+Performance Optimization: Use tools like Google Lighthouse to analyze and improve performance, accessibility, and best practices. Optimize assets (images, CSS, JavaScript) for faster loading times.
+
+Analytics and Monitoring: Implement analytics to track user behavior and monitor the application’s performance using tools like Google Analytics and error tracking services like Sentry.
+
+Real-time Updates of UFC Fighter Stats:
+
+Frontend: Display fighter statistics in a dynamic section of the webpage.
+Backend: Use Node.js and Express to create an API endpoint for fetching fighter stats.
+Data Handling: Initially, use mock data stored in SQLite or in-memory to simulate real-time stats.
+Real-time Mechanism: Implement Socket.io to push updates from the server to the client.
+VS Battle Feature:
+
+UI Components: Create a section where users can select two fighters from a list or dropdown.
+Battle Logic: Develop a simple algorithm to decide the winner based on the fighters' stats.
+Display Results: Show the winner's name and a basic congratulatory message.
+Search Feature:
+
+Search Bar: Implement a text input for searching fighter names.
+Autocomplete: Add a JavaScript event listener to the search field to fetch and display suggestions as the user types.
+Search Results: Display the selected fighter's basic profile and statistics on a separate page or section.
+
 
 - [Let's start with servers. This is a word referring to either software or hardware that serves files or websites to computers which request them. Sometimes, the server software runs on the server hardware, and sometimes the server software is located elsewhere.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 - T[he server room. It's an over air conditioned space with scores of computers on racks, wires everywhere,](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#) [In this case, this is the server as hardware, a very powerful computer that's designed to handle many simultaneous connections, and serve up files as requested.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
