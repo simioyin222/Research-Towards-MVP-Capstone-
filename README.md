@@ -5,8 +5,8 @@
 ## Understanding the web
 
 ### Client and Servers
-##10:00 am cst - 11:00 am cst Preparing and heading to library 
-##11:00 am cst - 2:00 pm cst Outline and brainstorm mvp and how to set it up and what i want to do and technoology to use:
+## 10:00 am cst - 11:00 am cst Preparing and heading to library 
+## 11:00 am cst - 2:00 pm cst Outline and brainstorm mvp and how to set it up and what i want to do and technoology to use:
 
 Additonal Tech Stack Added:
 Responsive Design: Utilize CSS frameworks like Bootstrap that you're already considering, or Tailwind CSS, which offers utility-first styling. These frameworks facilitate responsive design, ensuring your web page adapts to various screen sizes and devices.
