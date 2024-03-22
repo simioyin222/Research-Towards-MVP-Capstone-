@@ -1,7 +1,8 @@
 # Research-Towards-MVP-Capstone-
-## Notes and Progress Towards Capstone Notes Will Incorporate By completion of part
-# Intro Web Design & Development
 
+
+
+# Intro Web Design & Development
 ## Understanding the web
 
 ### Client and Servers
