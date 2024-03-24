@@ -97,8 +97,6 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 
 ## 4:20 ish pm -5:00 PM Hands on linkdein learning "Three tech of frontend" & "writing code" both of which i wrote notes on and practiced on my creation of my new portfolio project (https://github.com/simioyin222/Portfolio) 
 
-## Supporting Web Development Technologies
-
 ## Understanding HTML
 
 - [HTML is the hypertext markup language. HTML is all about identifying commonly used structural elements like paragraphs, headings, lists, links, and more. Computers understand the structure of a document through this type of markup.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
@@ -124,4 +122,6 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 
 ## 5:00 PM - 6:30 PM  writing code (will place portofolio code here, still working on it so give me a second as used for practice) :
 
-*deleted all previous placed code that worked on formated weird in the read me but please refer to https://github.com/simioyin222/Portfolio to see code so far
+*deleted all previous placed code that worked on formated weird in the read me but please refer to https://github.com/simioyin222/Portfolio and https://github.com/simioyin222/React-Js-Portfolio to see code so far
+
+## Supporting Web Development Technologies
