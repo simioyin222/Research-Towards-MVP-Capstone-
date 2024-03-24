@@ -95,7 +95,7 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 - [As such, these kinds of drawings may be displayed online using the SVG format or scalable vector graphic. These graphics load quickly because of their small file size. Photoshop was originally used for processing photos, including cropping, cleaning them up, annotating them, and more. Photoshop produces raster graphics or graphics made up of individual pixels. Exported images are usually in GIF, PNG, or JPEG format to display on the web](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 - [Many graphic designers are starting to incorporate Figma into their work as well. While Figma is primarily a prototyping tool, it does offer some basic graphic design tools for creating quick logos and other graphics for your site. If you're not a professionally-trained graphic designer but you're called on to do the occasional graphic design work, you may want to take a look at Canva. Canva offers a ton of templates to start many types of graphic design work. It offers color palettes, easy type choices, and a simple interface for creating graphics that look good without a steep learning curve. If you have no background in graphic design, Canva is not a bad choice to start work. It has a free plan so you can give it a whirl without commitment.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/graphic-design-tools?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 
-## 4:20 ish pm -( wip ) Hands on linkdein learning "Three tech of frontend" & "writing code" both of which i wrote notes on and practiced on my creation of my new portfolio project (https://github.com/simioyin222/Portfolio) 
+## 4:20 ish pm -5:00 PM Hands on linkdein learning "Three tech of frontend" & "writing code" both of which i wrote notes on and practiced on my creation of my new portfolio project (https://github.com/simioyin222/Portfolio) 
 
 ## Supporting Web Development Technologies
 
@@ -118,3 +118,83 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 - [With Bootstrap, you may create website layouts, buttons, color and font schemes and functionality like dropdowns, hamburger buttons, accordions and modal windows. More recently, JavaScript frameworks have become wildly popular. Facebook's React, Open-source Vue and Google's Angular are the three most encountered frameworks for front-end development](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 - [Frameworks in general are often used for two major reasons in programming. The reason that most people want to discuss is that a framework significantly speeds up development time for building websites and web applications. A significant portion of the code is already written. Some parts of the framework may be designed for quick customization. Often, that's things like colors, fonts, layout options and so forth. Developers may also write additions to the framework to make their customized solution for a client. Frameworks are maintained by a team of people and are often free so the code will be updated on a regular basis.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 - Could be seen as a crutch
+
+## CHAPTER QUIZ
+- PASSED
+
+## 5:00 PM - 6:00 PM  writing code (will place portofolio code here, still working on it so give me a second as used for practice) :
+HTML:
+<div class="overlay-navigation">
+  <nav role="navigation">
+    <ul>
+      <li><a href="#" data-content="The beginning">Home</a></li>
+      <li><a href="#" data-content="Curious?">About</a></li>
+      <li><a href="#" data-content="I got game">Skills</a></li>
+      <li><a href="#" data-content="Only the finest">Works</a></li>
+      <li><a href="#" data-content="Don't hesitate">Contact</a></li>
+    </ul>
+  </nav>
+</div>
+
+<section class="home">
+  <a href="https://codepen.io/fluxus/pen/gPWvZm" target="_blank">Click for a slightly nicer Velocity.js version</a>
+  <div class="open-overlay">
+    <span class="bar-top"></span>
+    <span class="bar-middle"></span>
+    <span class="bar-bottom"></span>
+  </div>
+</section>
+
+CSS:
+HTML CSS JSResult Skip Results Iframe
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,300,700|Open+Sans:400italic,300italic);
+body {
+  background-color: #fff
+}
+
+.home {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-image: url(https://images.unsplash.com/photo-1446771326090-d910bfaf00f6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9216e1a8598a8530ce329b41a8f3725d);
+  background-size: cover;
+  background-position: center center;
+}
+
+JS:
+$('.open-overlay').click(function() {
+  var overlay_navigation = $('.overlay-navigation'),
+    nav_item_1 = $('nav li:nth-of-type(1)'),
+    nav_item_2 = $('nav li:nth-of-type(2)'),
+    nav_item_3 = $('nav li:nth-of-type(3)'),
+    nav_item_4 = $('nav li:nth-of-type(4)'),
+    nav_item_5 = $('nav li:nth-of-type(5)'),
+    top_bar = $('.bar-top'),
+    middle_bar = $('.bar-middle'),
+    bottom_bar = $('.bar-bottom');
+
+  overlay_navigation.toggleClass('overlay-active');
+  if (overlay_navigation.hasClass('overlay-active')) {
+
+    top_bar.removeClass('animate-out-top-bar').addClass('animate-top-bar');
+    middle_bar.removeClass('animate-out-middle-bar').addClass('animate-middle-bar');
+    bottom_bar.removeClass('animate-out-bottom-bar').addClass('animate-bottom-bar');
+    overlay_navigation.removeClass('overlay-slide-up').addClass('overlay-slide-down')
+    nav_item_1.removeClass('slide-in-nav-item-reverse').addClass('slide-in-nav-item');
+    nav_item_2.removeClass('slide-in-nav-item-delay-1-reverse').addClass('slide-in-nav-item-delay-1');
+    nav_item_3.removeClass('slide-in-nav-item-delay-2-reverse').addClass('slide-in-nav-item-delay-2');
+    nav_item_4.removeClass('slide-in-nav-item-delay-3-reverse').addClass('slide-in-nav-item-delay-3');
+    nav_item_5.removeClass('slide-in-nav-item-delay-4-reverse').addClass('slide-in-nav-item-delay-4');
+  } else {
+    top_bar.removeClass('animate-top-bar').addClass('animate-out-top-bar');
+    middle_bar.removeClass('animate-middle-bar').addClass('animate-out-middle-bar');
+    bottom_bar.removeClass('animate-bottom-bar').addClass('animate-out-bottom-bar');
+    overlay_navigation.removeClass('overlay-slide-down').addClass('overlay-slide-up')
+    nav_item_1.removeClass('slide-in-nav-item').addClass('slide-in-nav-item-reverse');
+    nav_item_2.removeClass('slide-in-nav-item-delay-1').addClass('slide-in-nav-item-delay-1-reverse');
+    nav_item_3.removeClass('slide-in-nav-item-delay-2').addClass('slide-in-nav-item-delay-2-reverse');
+    nav_item_4.removeClass('slide-in-nav-item-delay-3').addClass('slide-in-nav-item-delay-3-reverse');
+    nav_item_5.removeClass('slide-in-nav-item-delay-4').addClass('slide-in-nav-item-delay-4-reverse');
+  }
+})
+
