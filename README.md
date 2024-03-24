@@ -99,5 +99,9 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 
 ## Supporting Web Development Technologies
 
+## Understanding HTML
 
--
+- [HTML is the hypertext markup language. HTML is all about identifying commonly used structural elements like paragraphs, headings, lists, links, and more. Computers understand the structure of a document through this type of markup.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+- [This is made up of opening and closing tags. In this case, the A tag. A stands for anchor, and it's used in creating links. When we talk about the two tags together, this refers to the element. You'll notice in the opening tag, we have a few modifiers available to us called attributes. The href attribute stands for hyper text reference. In other words, where do we want this link to go? The target attribute addresses where we'd like this link to open. In this case, we wanted to open it in a new window or tab in the browser rather than the default behavior of the same window or tab. The words in between the opening and closing tags are the text affected by the tags.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+
+## Understanding CSS
