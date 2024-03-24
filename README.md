@@ -124,4 +124,4 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 
 *deleted all previous placed code that worked on formated weird in the read me but please refer to https://github.com/simioyin222/Portfolio and https://github.com/simioyin222/React-Js-Portfolio to see code so far
 
-## Supporting Web Development Technologies
+##  6:30 pm Supporting Web Development Technologies
