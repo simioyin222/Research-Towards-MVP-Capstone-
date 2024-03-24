@@ -105,3 +105,13 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 - [This is made up of opening and closing tags. In this case, the A tag. A stands for anchor, and it's used in creating links. When we talk about the two tags together, this refers to the element. You'll notice in the opening tag, we have a few modifiers available to us called attributes. The href attribute stands for hyper text reference. In other words, where do we want this link to go? The target attribute addresses where we'd like this link to open. In this case, we wanted to open it in a new window or tab in the browser rather than the default behavior of the same window or tab. The words in between the opening and closing tags are the text affected by the tags.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 
 ## Understanding CSS
+
+- No new info 
+
+## Understanding Javascript
+
+- JavaScript and Java have nothing to do with each other. Java is used more for applications, particularly in Android-based applications and in big data. JavaScript was born on the web and continues to live there. Like CSS, JavaScript is usually contained in its own documents and linked to the HTML page where it will execute. Since JavaScript is a programming language, it includes many of the same elements you find with other languages.
+
+## What is Framework
+
+-
