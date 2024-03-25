@@ -131,5 +131,28 @@ Writing JavaScript(Viewed)
 Challenge: Write HTML and CSS(Viewed)
 Solution: Write HTML and CSS
 
-##  7:05 pm Supporting Web Development Technologies
+##  7:05  7:50 pm Supporting Web Development Technologies
+### Editor that works for your code
 
+- No new info
+- Can try Atom as well to code and build programs
+
+### Keeping Files organized with github/git
+
+- [Git is a software program that runs on the command line on your computer. Git will do all of the things I just described. Like keeping versions of your code. Enabling rollbacks to earlier versions of the code. Tracking the changes made and so forth. Git is great but it's a bit more difficult to share coding files with others. That's where GitHub comes in. GitHub uses Git to do all of that versioning, and file management work combined with web hosting to enable easy sharing of files within a team of people. While you may use Git without GitHub, you can't use GitHub without Git.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/keeping-files-organized-with-github?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+
+### Choosing Web Host
+
+- [Websites are only visible to the general public if their web server is also accessible to the public. when web server software runs on web server hardware, and that system is maintained by a company who will sell you some space on it, that's referred to as a web host or hosting](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+- [While you can host your own own website on your own computer, you really shouldn't. Your internet service provider may have rules prohibiting you from doing this. And you really don't want just anyone looking at the website from your own personal compute](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)r
+- [Using their free GitHub Pages Service at pages.Github.com You may post your website code on Github, and view the site through their service.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+- [Shared hosting is web hosting where one web server has thousands of web hosting accounts located on it. You share the server with thousands of sites, and their corresponding traffic. Hosting is cheap, often less than a hundred dollars per year. However, customization of the hosting account is limited and your site may run very slowly due to the other sites on the same server sucking up all of the servers resources. More expensive options exist, which will give you better performance for your website](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+- [A virtual private server or VPS, will have fewer accounts per server, maybe only a dozen or less.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+- [Or you could go with a dedicated server where you'll have control over the entire server for your own work.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+- [cloud hosting. Whereas standard web hosting offers you a fixed service, cloud hosting will scale with your needs in the moment. If you have a ton of traffic for one moment in time, cloud hosting will accommodate that while standard web hosting might be overwhelmed. Pricing for cloud hosting is generally tied to usage, so the more traffic you have, the more you'll pay. In general, as you get started with your early websites shared hosting or GitHub Pages is likely the right fit for you. Later in your career, you'll encounter many other types of hosting.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
+
+### Registering Domain Name
+
+- Info more in the moment and very obvious
+
+### chapter quiz
