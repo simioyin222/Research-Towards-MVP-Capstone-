@@ -120,7 +120,7 @@ Search Results: Display the selected fighter's basic profile and statistics on a
 ## CHAPTER QUIZ
 - PASSED
 
-## 5:00 PM - 7: 20 PM  writing code (will place portofolio code here, still working on it so give me a second as used for practice) :
+## 5:00 PM - 7: 00 PM  writing code (will place portofolio code here, still working on it so give me a second as used for practice) :
 
 *deleted all previous placed code that worked on formated weird in the read me but please refer to https://github.com/simioyin222/Portfolio and https://github.com/simioyin222/React-Js-Portfolio to see code so far
 
@@ -131,5 +131,5 @@ Writing JavaScript(Viewed)
 Challenge: Write HTML and CSS(Viewed)
 Solution: Write HTML and CSS
 
-##  7:20 pm Supporting Web Development Technologies
+##  7:05 pm Supporting Web Development Technologies
 
