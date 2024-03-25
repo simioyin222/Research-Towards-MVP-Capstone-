@@ -156,4 +156,37 @@ Solution: Write HTML and CSS
 
 ### chapter quiz
 
-## 8:09pm Exploring no code solutions
+## 8:09pm 8: 30 pm Exploring no code solutions
+
+### No-Code Movement
+
+- No useful information
+- Wordpress is the leader in no coding or very simple websites
+
+### All - in - 1 solutions content managment systems
+
+- CMS = Handles large amount of content (For editing website on their own)
+- CMS = Wordpress, Joomla, Drupal
+- Outdated
+
+### Selling things online: shopping cart solutions
+
+- Shopify Or Big commerce to integrate shopping carts into code without actual code (no code solution)
+
+### Simple Website Builders for small sites
+
+- no useful info since i am hands on coder and building
+
+### Complex website builders with fine-grained control
+
+- no useful info since i am hands on coder and building
+
+### Dashboards and Databases
+
+- no useful info since i am hands on coder and building
+- airtable (an api)
+
+### Web App and Native App development
+
+- Native = Certain System
+- Web = anywhere with internet (web, mobile, device) better for manipulating data
