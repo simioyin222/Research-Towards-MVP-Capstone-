@@ -1,7 +1,5 @@
 # Research-Towards-MVP-Capstone-
 
-
-
 # Intro Web Design & Development
 ## Understanding the web
 
@@ -151,11 +149,11 @@ Solution: Write HTML and CSS
 - [Or you could go with a dedicated server where you'll have control over the entire server for your own work.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 - [cloud hosting. Whereas standard web hosting offers you a fixed service, cloud hosting will scale with your needs in the moment. If you have a ton of traffic for one moment in time, cloud hosting will accommodate that while standard web hosting might be overwhelmed. Pricing for cloud hosting is generally tied to usage, so the more traffic you have, the more you'll pay. In general, as you get started with your early websites shared hosting or GitHub Pages is likely the right fit for you. Later in your career, you'll encounter many other types of hosting.](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-a-web-host?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d7a7053dd559b764b88a92&resume=false#)
 
-## 8:09pm Exploring no code solutions
-
 
 ### Registering Domain Name
 
 - Info more in the moment and very obvious
 
 ### chapter quiz
+
+## 8:09pm Exploring no code solutions
